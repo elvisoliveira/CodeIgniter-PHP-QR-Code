@@ -18,5 +18,10 @@
             "name": "Jason Walker",
             "email": "https://github.com/jcwalker3"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "Ciqrcode.php"
+        ]
+    }
 }
