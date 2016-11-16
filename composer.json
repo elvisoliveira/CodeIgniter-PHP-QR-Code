@@ -21,7 +21,7 @@
     ],
     "autoload": {
         "classmap": [
-            "ciqrcode.php"
+            "Ciqrcode.php"
         ]
     }
 }
