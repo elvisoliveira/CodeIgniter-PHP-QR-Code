@@ -1,24 +1,11 @@
 {
     "name": "elvisoliveira/codeigniter-php-qr-code",
     "type": "library",
-    "description": "A PHP Library to create QR Code. This is a porting library for CodeIgniter Framework, original code from http://phpqrcode.sourceforge.net/",
+    "description": "",
     "keywords": [],
-    "homepage": "https://github.com/elvisoliveira/CodeIgniter-PHP-QR-Code",
+    "homepage": "https://github.com/elvisoliveira/codeigniter-php-qr-code",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jared Hatfield",
-            "email": "https://github.com/JaredHatfield"
-        },
-        {
-            "name": "Collin Price",
-            "email": "https://github.com/collinprice"
-        },
-        {
-            "name": "Jason Walker",
-            "email": "https://github.com/jcwalker3"
-        }
-    ],
+    "authors": [],
     "autoload": {
         "classmap": [
             "Ciqrcode.php"
